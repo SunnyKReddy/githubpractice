@@ -1,4 +1,4 @@
-This is file B
+This is file B.txt
 line 1
 line 2
 
