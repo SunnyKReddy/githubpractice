@@ -2,3 +2,4 @@ this is e.txt file
 code1
 code2
 code3
+new line added in feature
